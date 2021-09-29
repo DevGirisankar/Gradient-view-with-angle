@@ -2,7 +2,7 @@
 
 # usage 
 
-1.Make the class of UIView to GradientWithAngleView
+1.Make the class of ```UIView``` to ```GradientWithAngleView```
 
 2.Change the values of colors, Default is white and blue
 
